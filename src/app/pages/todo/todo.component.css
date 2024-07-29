@@ -1,0 +1,14 @@
+.container{
+    width: 30%;
+}
+input{
+    border-color: brown;
+}
+ul{
+    list-style-type: none;
+    /* padding: 0; */
+}
+svg{
+    height: 15px;
+    width: 15px;
+}

@@ -1,0 +1,13 @@
+input{
+    border-color: chocolate;
+}
+
+.checked-class {
+    /* background-color: yellow; */
+    text-decoration: line-through;
+    color: rgb(169, 48, 48);
+}
+/* svg{
+    height: 15px;
+    width: 15px;
+} */
